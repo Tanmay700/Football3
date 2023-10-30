@@ -17,15 +17,17 @@ div{
 }
 h2{
     color: gray;
+    font-size: 25px;
 }
 
 div.tan2
 {
-    font-size: 14px;
+    font-size: 20px;
     color: gray
     
 
 }
 a{
     display: inline;
+    font-size: 20px;
 }
